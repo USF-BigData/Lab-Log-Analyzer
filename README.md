@@ -10,4 +10,4 @@ If you had to build a third version of the program, what changes would you make 
 
 ## Submission
 
-Check in your go code and make sure you don't forget to answer the question above (just edit this file).
+Check in your Go code and make sure you don't forget to answer the question above (just edit this file).
